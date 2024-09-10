@@ -1,1 +1,3 @@
 print("Malan")
+
+print("Pritee")
